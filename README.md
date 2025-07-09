@@ -1,4 +1,4 @@
-# carry-save-adder
+# carry-select-adder
 
 This code defines an entity called csa2 which represents a carry-select adder (CSA). It has generic parameter n which specifies the size of the input vectors A and B. It also has four ports: A, B, cin, and sum. A and B are both std_logic_vectors of size n bits, and cin is a single bit std_logic input. The output sum is also a std_logic_vector of size n+1 bits.
 
